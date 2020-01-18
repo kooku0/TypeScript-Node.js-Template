@@ -14,7 +14,7 @@ TypeScript로 Node.js 서버를 구축하는 템플릿 코드입니다.
   "main": "app.ts",
   "scripts": {
     "start:dev": "nodemon --config ./nodemon.json",
-    "build": "rd /s build && tsc",
+    "build": "tsc",
     "start": "set NODE_ENV=production&& node build/app.js"
   },
   "author": "kooku",
@@ -25,6 +25,7 @@ TypeScript로 Node.js 서버를 구축하는 템플릿 코드입니다.
     "express": "^4.17.1",
     "nodemon": "^2.0.2",
     "ts-node": "^8.5.4",
+    "tslib": "^1.10.0",
     "typescript": "^3.7.4",
     "winston": "^3.2.1"
   }
