@@ -25,7 +25,8 @@ TypeScript로 Node.js 서버를 구축하는 템플릿 코드입니다.
     "express": "^4.17.1",
     "nodemon": "^2.0.2",
     "ts-node": "^8.5.4",
-    "typescript": "^3.7.4"
+    "typescript": "^3.7.4",
+    "winston": "^3.2.1"
   }
 }
 ```
