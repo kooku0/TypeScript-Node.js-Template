@@ -2,7 +2,7 @@
 
 TypeScript로 Node.js 서버를 구축하는 템플릿 코드입니다.
 
-환경설정 과정은 (TypeScript로 Node.js 서버 만들기)[https://kooku.netlify.com/node.js/typescript%EB%A1%9C-node.js-%EC%84%9C%EB%B2%84-%EB%A7%8C%EB%93%A4%EA%B8%B0/]에 포스팅 되어 있습니다.
+환경설정 과정은 [TypeScript로_Node.js_서버_만들기](https://kooku.netlify.com/node.js/typescript%EB%A1%9C-node.js-%EC%84%9C%EB%B2%84-%EB%A7%8C%EB%93%A4%EA%B8%B0/)에 포스팅 되어 있습니다.
 
 사용하실 때 `package.json` 파일에서 name, description, author은 변경하신 후 사용하시길 바랍니다.
 
